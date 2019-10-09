@@ -1,0 +1,32 @@
+* {
+  background-color: #2C2F33 !important;
+}
+
+hr {
+  border-top: 1px solid #3e4146;
+}
+
+#chat {
+  background-color: #3e4146 !important;
+  color: white !important;
+}
+
+.content, .name {
+  color: white !important;
+}
+
+.bot-name {
+  color: #ffa1db !important;
+}
+
+.row {
+  width: 100% !important;
+}
+
+#render {
+  margin-bottom: 70px;
+  overflow: auto;
+  padding: 10px;
+  font-size: 20px;
+}
+
